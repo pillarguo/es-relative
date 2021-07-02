@@ -16,7 +16,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <spring.version>4.2.5.RELEASE</spring.version>
-        <elasticsearch.version>5.4.2</elasticsearch.version>
+        <elasticsearch.version>6.8.15</elasticsearch.version>
         <elasticsearch.plugin.name>elasticsearch-rescore-zdm-5.4.2</elasticsearch.plugin.name>
         <skipTests>true</skipTests>
         <elasticsearch.plugin.classname>com.zdm.ZDMPlugin</elasticsearch.plugin.classname>
